@@ -1,6 +1,16 @@
-<h1 align="center" style="color:#4fa3ff; font-weight:700;">
-  路漫漫其修远兮，吾将上下而求索
-</h1>
+<p>
+  <span style="
+    padding: 8px 16px;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+    backdrop-filter: blur(4px);
+    font-size: 18px;
+    font-weight: bold;
+    color: #66ccff;
+  ">
+    路漫漫其修远兮，吾将上下而求索
+  </span>
+</p>
 
 ---
 
