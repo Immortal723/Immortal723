@@ -1,5 +1,6 @@
-<h1 align="center">Immortal723</h1>
-<p align="center"><i>路漫漫其修远兮，吾将上下而求索</i></p>
+<h1 align="center" style="color:#4fa3ff; font-weight:700;">
+  路漫漫其修远兮，吾将上下而求索
+</h1>
 
 ---
 
