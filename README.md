@@ -19,9 +19,9 @@
 ---
 
 ## 📊 GitHub Overview
-<p align="left">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Immortal723&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" height="150"/>
-</p>
+- Total Stars: ![Stars](https://img.shields.io/github/stars/Immortal723?style=flat-square)
+- Total Repos: ![Repos](https://img.shields.io/badge/Repos-Check%20Profile-blue?style=flat-square)
+- Languages: ![Lang](https://img.shields.io/badge/Languages-Mixed-blueviolet?style=flat-square)
 
 ---
 
