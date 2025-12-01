@@ -1,16 +1,15 @@
-<p>
-  <span style="
-    padding: 8px 16px;
-    background: rgba(0, 0, 0, 0.4);
-    border-radius: 8px;
-    backdrop-filter: blur(4px);
-    font-size: 18px;
-    font-weight: bold;
-    color: #66ccff;
-  ">
-    路漫漫其修远兮，吾将上下而求索
-  </span>
-</p>
+<h1 style="
+  padding: 8px 16px;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 8px;
+  backdrop-filter: blur(4px);
+  font-size: 28px;
+  font-weight: 900;
+  color: #66ccff;
+  display: inline-block;
+">
+  路漫漫其修远兮，吾将上下而求索
+</h1>
 
 ---
 
