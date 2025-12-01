@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Overview
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Immortal723&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Immortal723&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" height="150"/>
 </p>
 
 ---
